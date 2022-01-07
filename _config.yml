@@ -1,4 +1,4 @@
-title: Researcher
+title: Suyeon Lee
 url: "https://suylab.github.io"
 baseurl: ""
 
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Original page design by Ankit Sultana"
 
 remote_theme: ankitsultana/researcher@gem
 
@@ -19,8 +19,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  - name: "Resume"
-   link: "resume.pdf"
+   link: "sylee_cv_20220107.pdf"
  - name: "Contact"
    link: "contact"
