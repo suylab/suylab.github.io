@@ -1,6 +1,10 @@
 ---
-layout: default
-remote_theme: suylab/suylab.github.io@gem
+layout: home
+author_profile: true
+---
+
+---
+layout: home
 ---
 
 ## About Me --
