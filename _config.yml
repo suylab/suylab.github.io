@@ -1,4 +1,4 @@
-title: Researcher
+title: Suyeon Lee
 url: "https://suylab.github.io/"
 baseurl: "/researcher/"
 
@@ -20,6 +20,6 @@ nav:
  - name: "Contact"
    link: "contact"
  - name: "Resume"
-   link: "resume.pdf" # put your files in the assets directory
+   link: "sylee_cv_20220107.pdf" # put your files in the assets directory
  - name: "About"
-   link: "/researcher/"
+   link: ""
