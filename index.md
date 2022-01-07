@@ -1,14 +1,19 @@
 ---
+title: Suyeon Lee
 layout: default
 ---
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.png">
 
-Hi! I am an Embedded Software Engineer currently working at Samsung Electronics. Specifically, I am primarily working on Automotive BSP projects. Amongst them, my main responsibility is porting and developing Security-related functions.
+Hi! I am an Embedded Software Engineer currently working at Samsung Electronics Korea. Specifically, I am primarily working on Automotive BSP projects.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Amongst them, my main responsibility is porting and developing Security-related features. You can find more about me on [linkedin](linkedin.com/in/-suyeonlee)
+
+## Contact
+
+email: suy.suy.lee at gmail dot com
 
 ## Research Interest
 
