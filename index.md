@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am an Embedded Software Engineer currently working at Samsung Electronics. Specifically, I am primarily working on Automotive BSP projects. Amongst them, my main responsibility is porting and developing Security-related functions.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
