@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://suylab.github.io"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -11,7 +11,7 @@ footer: yes
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
-remote_theme: suylab/suylab.github.io@gem
+remote_theme: ankitsultana/researcher@gem
 
 sass:
     style: compressed
