@@ -9,7 +9,7 @@ layout: default
 
 Hi! I am an Embedded Software Engineer currently working at Samsung Electronics Korea. Specifically, I am primarily working on Automotive BSP projects.
 
-Amongst them, my main responsibility is porting and developing Security-related features. You can find more about me on [linkedin](linkedin.com/in/-suyeonlee)
+Amongst them, my main responsibility is porting and developing Security-related features. You can find more about me on [linkedin](linkedin.com/in/-suyeonlee).
 
 ## Contact
 
@@ -21,9 +21,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. **Suyeon Lee**, Jehyun Lee, Heejo Lee, Screening Smartphone Applications using Behavioral Signatures, IFIP Int'l Information Security and Privacy Conference (SEC), July. 8. 2013.
+2. Seungpyo Hong, Myeongjin Oh, **Suyeon Lee**, Sangjun Lee, Efficient Technique for Preventing ARP Spoofing Attacks using Reliable ARP Table, Journal of KIISE : Computing Practices and Letters, Vol. 17, No. 1, pp. 26-30, Jan., 2011.
 
+<!--
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
@@ -48,3 +49,4 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+-->
