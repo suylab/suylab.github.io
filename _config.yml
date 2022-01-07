@@ -6,7 +6,7 @@ markdown: kramdown
 
 tracking_id: #
 
-remote_theme: ankitsultana/researcher@gem
+remote_theme: suylab/suylab.github.io@gem
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
