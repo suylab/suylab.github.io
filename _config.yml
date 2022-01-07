@@ -11,7 +11,7 @@ footer: yes
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
-remote_theme: ankitsultana/researcher@gem
+remote_theme: suylab/suylab.github.io@gem
 
 sass:
     style: compressed
