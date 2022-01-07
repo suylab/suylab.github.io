@@ -26,6 +26,7 @@ Embedded Security, Secure OS
 
 2. Seungpyo Hong, Myeongjin Oh, **Suyeon Lee**, Sangjun Lee, Efficient Technique for Preventing ARP Spoofing Attacks using Reliable ARP Table, Journal of KIISE : Computing Practices and Letters, Vol. 17, No. 1, pp. 26-30, Jan., 2011.
 
+
 <!--
 ## Typography
 
