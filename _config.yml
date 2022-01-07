@@ -20,7 +20,5 @@ sass:
 nav:
  - name: "About"
    link: ""
- - name: "Resume"
-   link: "sylee_cv_20220107.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "CV"
+   link: "resume.pdf"
