@@ -1,9 +1,9 @@
 ---
 layout: default
-remote_theme: ankitsultana/researcher@gem
+remote_theme: ankitsultana/researcher@gh-pages
 ---
 
-## About Me
+## About Me1111
 
 <img class="profile-picture" src="sherlock.jpg">
 
