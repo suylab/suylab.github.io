@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hi! I am an Embedded Software Engineer currently working at Samsung Electronics Korea. Specifically, I am primarily working on Automotive BSP projects. Amongst them, my main responsibility is porting and developing Security-related features. You can find more about me on [linkedin](linkedin.com/in/-suyeonlee).
+Hi! I am an Embedded Software Engineer currently working at Samsung Electronics Korea. Specifically, I am primarily working on Automotive BSP projects. Amongst them, my main responsibility is porting and developing Security-related features. You can find more about me on [linkedin](https://linkedin.com/in/-suyeonlee).
 
 ## Contact
 
