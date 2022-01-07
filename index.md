@@ -22,6 +22,7 @@ Embedded Security, Secure OS
 ## Publications
 
 1. **Suyeon Lee**, Jehyun Lee, Heejo Lee, Screening Smartphone Applications using Behavioral Signatures, IFIP Int'l Information Security and Privacy Conference (SEC), July. 8. 2013.
+
 2. Seungpyo Hong, Myeongjin Oh, **Suyeon Lee**, Sangjun Lee, Efficient Technique for Preventing ARP Spoofing Attacks using Reliable ARP Table, Journal of KIISE : Computing Practices and Letters, Vol. 17, No. 1, pp. 26-30, Jan., 2011.
 
 <!--
