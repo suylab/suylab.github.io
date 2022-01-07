@@ -15,10 +15,11 @@ Amongst them, my main responsibility is porting and developing Security-related 
 
 email: suy.suy.lee at gmail dot com
 
+<!--
 ## Research Interest
 
 Embedded Security, Secure OS
-
+-->
 ## Publications
 
 1. **Suyeon Lee**, Jehyun Lee, Heejo Lee, Screening Smartphone Applications using Behavioral Signatures, IFIP Int'l Information Security and Privacy Conference (SEC), July. 8. 2013.
