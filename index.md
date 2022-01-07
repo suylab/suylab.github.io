@@ -11,9 +11,11 @@ Hi! I am an Embedded Software Engineer currently working at Samsung Electronics 
 
 Amongst them, my main responsibility is porting and developing Security-related features. You can find more about me on [linkedin](linkedin.com/in/-suyeonlee).
 
+
 ## Contact
 
 email: suy.suy.lee at gmail dot com
+
 
 <!--
 ## Research Interest
