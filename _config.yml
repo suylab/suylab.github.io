@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Suyeon Lee
+description:    "Solvitur Ambulando"
+url:            "https://suylab.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Suyeon Lee
+  url:          https://suylab.github.io
+  email:        suy.suy.lee@gmail.com
 
 # Build settings
 markdown:       kramdown
